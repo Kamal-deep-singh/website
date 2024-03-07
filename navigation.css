@@ -96,7 +96,7 @@ li:hover{
 .bgimg{
     height: 850px;
     width: 100%;
-    background-image: url(images/man\ alone.jpg);
+    background-image: url(man\ alone.jpg);
     background-size: cover;
     color: white;
     background-attachment: fixed;
@@ -231,7 +231,7 @@ li:hover{
 .image1{
     height: 500px;
     width: 100%;
-    background-image: url(images/man\ with\ travel\ bag.jpg); 
+    background-image: url(man\ with\ travel\ bag.jpg); 
     background-size:cover;
     background-position:50%;
     transition-duration: 1s;
@@ -268,7 +268,7 @@ li:hover{
 .image2{
     height: 500px;
     width: 100%;
-    background-image: url(images/duffle\ bag\ pic.jpg);
+    background-image: url(duffle\ bag\ pic.jpg);
     background-size:cover;
     background-position:20%;
     transition-duration: 1s;
@@ -276,7 +276,7 @@ li:hover{
 .image3{
     height: 500px;
     width: 100%;
-    background-image: url(images/travel\ pack.jpg);
+    background-image: url(travel\ pack.jpg);
     background-size:cover;
     background-position:100%;
     transition-duration: 1s;
@@ -413,7 +413,7 @@ button:hover{
     margin: 50px 0px 50px 0px;
     height: 600px;
     width: 100%;
-    background-image: url(images/sun\ and\ hiking\ pic.jpg);
+    background-image: url(sun\ and\ hiking\ pic.jpg);
     background-size: cover;
     background-position: 100%;
     display: flex;
